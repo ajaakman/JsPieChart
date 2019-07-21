@@ -1,0 +1,7 @@
+{
+  "slices": [
+    { "type": "first", "percent": "23" },
+    { "type": "second", "percent": "46" },
+    { "type": "third", "percent": "31" }
+  ]
+}
